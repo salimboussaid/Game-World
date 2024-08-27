@@ -1,5 +1,4 @@
 # Game World Anime - E-commerce Website
-![image](https://github.com/user-attachments/assets/a96bb881-382e-4627-90f1-88a4468eea62)
 
 ![Game World Anime](https://gameworld-anime.netlify.app)
 
@@ -14,6 +13,17 @@ Game World Anime is a simple and interactive e-commerce website dedicated to ani
 - **Shopping Cart:** Functional shopping cart to manage selected products before checkout.
 - **User-Friendly Navigation:** Easy-to-use navigation bar with links to best sellers, gift ideas, new releases, and today's deals.
 - **Multi-language Support:** Switch between different languages to enhance user experience.
+
+## Categories
+
+The website offers three main categories for anime figure enthusiasts:
+
+1. **WANTED**
+   ![WANTED](https://github.com/user-attachments/assets/231bcdd8-5e19-466d-a051-17150e405306)
+2. **FIGURINE**
+   ![FIGURINE](https://github.com/user-attachments/assets/c45a7cd8-56e5-4566-8ac3-179ec9510785)
+3. **Funko Pop**
+   ![Funko Pop](https://github.com/user-attachments/assets/3228b7e6-ce9e-4e47-8be5-b33ed19908f3)
 
 ## Tech Stack
 
