@@ -1,6 +1,8 @@
 # Game World Anime - E-commerce Website
 
-![Game World Anime](https://gameworld-anime.netlify.app)
+[![Game World Anime](https://gameworld-anime.netlify.app)
+](https://gameworld-anime.netlify.app/)
+
 ![image](https://github.com/user-attachments/assets/a96bb881-382e-4627-90f1-88a4468eea62)
 
 Game World Anime is a simple and interactive e-commerce website dedicated to anime figure enthusiasts. This project showcases an immersive UI for browsing, searching, and purchasing anime figures. Built with HTML, CSS, and JavaScript, this responsive site provides an excellent user experience across all devices.
