@@ -1,4 +1,5 @@
 # Game World Anime - E-commerce Website
+![image](https://github.com/user-attachments/assets/a96bb881-382e-4627-90f1-88a4468eea62)
 
 ![Game World Anime](https://gameworld-anime.netlify.app)
 
